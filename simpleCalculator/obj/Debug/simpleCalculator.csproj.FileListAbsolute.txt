@@ -1,0 +1,10 @@
+E:\cSharpLearning\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe.config
+E:\cSharpLearning\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe
+E:\cSharpLearning\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.pdb
+E:\cSharpLearning\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.AssemblyReference.cache
+E:\cSharpLearning\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.Properties.Resources.resources
+E:\cSharpLearning\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.GenerateResource.cache
+E:\cSharpLearning\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.CoreCompileInputs.cache
+E:\cSharpLearning\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.exe
+E:\cSharpLearning\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.pdb
+E:\cSharpLearning\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.Calculator.resources
